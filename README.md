@@ -27,6 +27,6 @@
 
 ## Использованные источники инфрмации
 
-1. https://habr.com/ru/articles/866616/
-2. https://timeweb.cloud/tutorials/python/funkciya-map-v-python-chto-eto-i-kak-rabotaet
-3. https://docs.python.org/3/library/math.html
+1. Генераторы в Python(https://habr.com/ru/articles/866616/)
+2. Функция Map(https://timeweb.cloud/tutorials/python/funkciya-map-v-python-chto-eto-i-kak-rabotaet)
+3. Math в Python(https://docs.python.org/3/library/math.html)
